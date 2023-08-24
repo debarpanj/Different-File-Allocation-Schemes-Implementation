@@ -12,12 +12,12 @@ Please refer to the Assignment-6 pdf Question number 1.
 Clone the project
 
 ```bash
-  git clone https://github.com/sen99m/Different_file_allocation_schemes_implementation.git
+  git clone https://github.com/debarpanj/Different-File-Allocation-Schemes-Implementation.git
 ```
 
 Go to the project directory
 
-go to terminal and run below commands.
+Go to the terminal and run the below commands.
 For compiling use 
 ```bash
 g++ contiguous.cpp -o ca 
